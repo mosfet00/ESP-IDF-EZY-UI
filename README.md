@@ -1,5 +1,5 @@
-# Get Started Examples
+# Get Started with rum project
 
-Simple code to get started with ESP32 and ESP-IDF.
+Simple code to get ESP-IDF With a CmD options Menu 
 
-See the [README.md](../README.md) file in the upper level [examples](../) directory for more information about examples.
+[README.md](../README.md) file in the upper level [examples](../) directory for more information about examples.
