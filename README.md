@@ -1,4 +1,4 @@
-# Get Started with rum project
+# Get Started with run project
 
 Simple code to get ESP-IDF With a CmD options Menu 
 
